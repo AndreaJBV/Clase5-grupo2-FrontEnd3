@@ -1,0 +1,14 @@
+.card{
+    width: 300px;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(6, 93, 133);
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.card-img{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+}
